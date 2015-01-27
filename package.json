@@ -1,0 +1,16 @@
+{
+	"name": "nuclear-reset.css",
+	"version": "1.0.0",
+	"description": "nuclear-reset.css as a node packaged module",
+	"style": "nuclear-reset.css",
+	"files": [
+		"nuclear-reset.css"
+	],
+	"homepage": "http://github.com/kennethgraham/nuclear-reset",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/kennethgraham/nuclear-reset.css.git"
+	},
+	"author": "Kenneth Graham",
+	"license": "MIT"
+}
