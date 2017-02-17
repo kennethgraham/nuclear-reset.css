@@ -1,4 +1,4 @@
-*, *::before, *::after, *::first-letter, *::first-line {
+*, *:before, *:after, *:first-letter, *:first-line {
 	/* Arbitrarily chosen defaults not defined in spec */
 	color: #000000;
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
