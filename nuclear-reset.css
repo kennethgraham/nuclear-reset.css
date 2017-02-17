@@ -187,7 +187,7 @@
 	z-index: auto;
 }
 
-html *, html *::before, html *::after, html *::first-letter, html *::first-line {
+html *, html *:before, html *:after, html *:first-letter, html *:first-line {
 	/* Inherited properties */
 	border-collapse: inherit;
 	border-spacing: inherit;
